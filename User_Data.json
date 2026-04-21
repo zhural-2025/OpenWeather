@@ -1,0 +1,1509 @@
+{}
+{
+  "704944138": {
+    "city": "Великий Новгород",
+    "lat": 58.5209862,
+    "lon": 31.2757862,
+    "notifications": {
+      "interval_h": 24,
+      "enabled": true
+    },
+    "_extras": {
+      "forecast_by_day": {
+        "2026-04-21": [
+          {
+            "dt": 1776762000,
+            "main": {
+              "temp": 4.24,
+              "feels_like": -0.18,
+              "temp_min": 4.24,
+              "temp_max": 5.33,
+              "pressure": 1011,
+              "sea_level": 1011,
+              "grnd_level": 991,
+              "humidity": 37,
+              "temp_kf": -1.09
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 6.27,
+              "deg": 360,
+              "gust": 8.5
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-21 09:00:00"
+          },
+          {
+            "dt": 1776772800,
+            "main": {
+              "temp": 5.32,
+              "feels_like": 1.23,
+              "temp_min": 5.32,
+              "temp_max": 7.48,
+              "pressure": 1011,
+              "sea_level": 1011,
+              "grnd_level": 991,
+              "humidity": 34,
+              "temp_kf": -2.16
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 96
+            },
+            "wind": {
+              "speed": 6.19,
+              "deg": 9,
+              "gust": 8.39
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-21 12:00:00"
+          },
+          {
+            "dt": 1776783600,
+            "main": {
+              "temp": 6.57,
+              "feels_like": 3.36,
+              "temp_min": 6.57,
+              "temp_max": 7.73,
+              "pressure": 1011,
+              "sea_level": 1011,
+              "grnd_level": 992,
+              "humidity": 31,
+              "temp_kf": -1.16
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 91
+            },
+            "wind": {
+              "speed": 4.87,
+              "deg": 7,
+              "gust": 7.16
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-21 15:00:00"
+          },
+          {
+            "dt": 1776794400,
+            "main": {
+              "temp": 5.34,
+              "feels_like": 2.37,
+              "temp_min": 5.34,
+              "temp_max": 5.34,
+              "pressure": 1012,
+              "sea_level": 1012,
+              "grnd_level": 993,
+              "humidity": 37,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 803,
+                "main": "Clouds",
+                "description": "облачно с прояснениями",
+                "icon": "04n"
+              }
+            ],
+            "clouds": {
+              "all": 79
+            },
+            "wind": {
+              "speed": 3.83,
+              "deg": 351,
+              "gust": 8.96
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-21 18:00:00"
+          },
+          {
+            "dt": 1776805200,
+            "main": {
+              "temp": 3.6,
+              "feels_like": 1.34,
+              "temp_min": 3.6,
+              "temp_max": 3.6,
+              "pressure": 1013,
+              "sea_level": 1013,
+              "grnd_level": 993,
+              "humidity": 44,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 801,
+                "main": "Clouds",
+                "description": "небольшая облачность",
+                "icon": "02n"
+              }
+            ],
+            "clouds": {
+              "all": 15
+            },
+            "wind": {
+              "speed": 2.39,
+              "deg": 339,
+              "gust": 6.3
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-21 21:00:00"
+          }
+        ],
+        "2026-04-22": [
+          {
+            "dt": 1776816000,
+            "main": {
+              "temp": 2.41,
+              "feels_like": 0.31,
+              "temp_min": 2.41,
+              "temp_max": 2.41,
+              "pressure": 1012,
+              "sea_level": 1012,
+              "grnd_level": 993,
+              "humidity": 49,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 800,
+                "main": "Clear",
+                "description": "ясно",
+                "icon": "01n"
+              }
+            ],
+            "clouds": {
+              "all": 8
+            },
+            "wind": {
+              "speed": 2.04,
+              "deg": 320,
+              "gust": 4.28
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-22 00:00:00"
+          },
+          {
+            "dt": 1776826800,
+            "main": {
+              "temp": 2.03,
+              "feels_like": -0.13,
+              "temp_min": 2.03,
+              "temp_max": 2.03,
+              "pressure": 1011,
+              "sea_level": 1011,
+              "grnd_level": 992,
+              "humidity": 51,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 800,
+                "main": "Clear",
+                "description": "ясно",
+                "icon": "01d"
+              }
+            ],
+            "clouds": {
+              "all": 0
+            },
+            "wind": {
+              "speed": 2.03,
+              "deg": 303,
+              "gust": 4.74
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-22 03:00:00"
+          },
+          {
+            "dt": 1776837600,
+            "main": {
+              "temp": 6.13,
+              "feels_like": 4.3,
+              "temp_min": 6.13,
+              "temp_max": 6.13,
+              "pressure": 1011,
+              "sea_level": 1011,
+              "grnd_level": 991,
+              "humidity": 44,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 800,
+                "main": "Clear",
+                "description": "ясно",
+                "icon": "01d"
+              }
+            ],
+            "clouds": {
+              "all": 2
+            },
+            "wind": {
+              "speed": 2.43,
+              "deg": 299,
+              "gust": 3.69
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-22 06:00:00"
+          },
+          {
+            "dt": 1776848400,
+            "main": {
+              "temp": 9.92,
+              "feels_like": 8.66,
+              "temp_min": 9.92,
+              "temp_max": 9.92,
+              "pressure": 1008,
+              "sea_level": 1008,
+              "grnd_level": 989,
+              "humidity": 31,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 802,
+                "main": "Clouds",
+                "description": "переменная облачность",
+                "icon": "03d"
+              }
+            ],
+            "clouds": {
+              "all": 31
+            },
+            "wind": {
+              "speed": 2.61,
+              "deg": 290,
+              "gust": 3.71
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-22 09:00:00"
+          },
+          {
+            "dt": 1776859200,
+            "main": {
+              "temp": 11.36,
+              "feels_like": 9.39,
+              "temp_min": 11.36,
+              "temp_max": 11.36,
+              "pressure": 1005,
+              "sea_level": 1005,
+              "grnd_level": 986,
+              "humidity": 32,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 803,
+                "main": "Clouds",
+                "description": "облачно с прояснениями",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 61
+            },
+            "wind": {
+              "speed": 4.59,
+              "deg": 288,
+              "gust": 5.68
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-22 12:00:00"
+          },
+          {
+            "dt": 1776870000,
+            "main": {
+              "temp": 11.27,
+              "feels_like": 9.42,
+              "temp_min": 11.27,
+              "temp_max": 11.27,
+              "pressure": 1002,
+              "sea_level": 1002,
+              "grnd_level": 983,
+              "humidity": 37,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 4.88,
+              "deg": 263,
+              "gust": 7.95
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-22 15:00:00"
+          },
+          {
+            "dt": 1776880800,
+            "main": {
+              "temp": 9.04,
+              "feels_like": 6.51,
+              "temp_min": 9.04,
+              "temp_max": 9.04,
+              "pressure": 1000,
+              "sea_level": 1000,
+              "grnd_level": 981,
+              "humidity": 51,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 4.7,
+              "deg": 233,
+              "gust": 9.24
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-22 18:00:00"
+          },
+          {
+            "dt": 1776891600,
+            "main": {
+              "temp": 7.84,
+              "feels_like": 4.78,
+              "temp_min": 7.84,
+              "temp_max": 7.84,
+              "pressure": 995,
+              "sea_level": 995,
+              "grnd_level": 976,
+              "humidity": 58,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.26,
+              "deg": 227,
+              "gust": 11.8
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-22 21:00:00"
+          }
+        ],
+        "2026-04-23": [
+          {
+            "dt": 1776902400,
+            "main": {
+              "temp": 6.28,
+              "feels_like": 2.56,
+              "temp_min": 6.28,
+              "temp_max": 6.28,
+              "pressure": 992,
+              "sea_level": 992,
+              "grnd_level": 973,
+              "humidity": 72,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 500,
+                "main": "Rain",
+                "description": "небольшой дождь",
+                "icon": "10n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.89,
+              "deg": 238,
+              "gust": 10.95
+            },
+            "visibility": 10000,
+            "pop": 0.21,
+            "rain": {
+              "3h": 0.17
+            },
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-23 00:00:00"
+          },
+          {
+            "dt": 1776913200,
+            "main": {
+              "temp": 4.88,
+              "feels_like": 0.81,
+              "temp_min": 4.88,
+              "temp_max": 4.88,
+              "pressure": 988,
+              "sea_level": 988,
+              "grnd_level": 969,
+              "humidity": 89,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 500,
+                "main": "Rain",
+                "description": "небольшой дождь",
+                "icon": "10d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.85,
+              "deg": 213,
+              "gust": 11.31
+            },
+            "visibility": 10000,
+            "pop": 1,
+            "rain": {
+              "3h": 1.22
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-23 03:00:00"
+          },
+          {
+            "dt": 1776924000,
+            "main": {
+              "temp": 3.7,
+              "feels_like": 1.04,
+              "temp_min": 3.7,
+              "temp_max": 3.7,
+              "pressure": 988,
+              "sea_level": 988,
+              "grnd_level": 969,
+              "humidity": 94,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 500,
+                "main": "Rain",
+                "description": "небольшой дождь",
+                "icon": "10d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 2.88,
+              "deg": 260,
+              "gust": 4.78
+            },
+            "visibility": 99,
+            "pop": 1,
+            "rain": {
+              "3h": 1.84
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-23 06:00:00"
+          },
+          {
+            "dt": 1776934800,
+            "main": {
+              "temp": 3.32,
+              "feels_like": 1.68,
+              "temp_min": 3.32,
+              "temp_max": 3.32,
+              "pressure": 989,
+              "sea_level": 989,
+              "grnd_level": 970,
+              "humidity": 95,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 500,
+                "main": "Rain",
+                "description": "небольшой дождь",
+                "icon": "10d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 1.77,
+              "deg": 357,
+              "gust": 3.97
+            },
+            "visibility": 51,
+            "pop": 1,
+            "rain": {
+              "3h": 2.4
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-23 09:00:00"
+          },
+          {
+            "dt": 1776945600,
+            "main": {
+              "temp": 2.9,
+              "feels_like": -0.06,
+              "temp_min": 2.9,
+              "temp_max": 2.9,
+              "pressure": 990,
+              "sea_level": 990,
+              "grnd_level": 971,
+              "humidity": 95,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 500,
+                "main": "Rain",
+                "description": "небольшой дождь",
+                "icon": "10d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 3.06,
+              "deg": 6,
+              "gust": 6.75
+            },
+            "visibility": 32,
+            "pop": 1,
+            "rain": {
+              "3h": 2.97
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-23 12:00:00"
+          },
+          {
+            "dt": 1776956400,
+            "main": {
+              "temp": 3.17,
+              "feels_like": -0.16,
+              "temp_min": 3.17,
+              "temp_max": 3.17,
+              "pressure": 992,
+              "sea_level": 992,
+              "grnd_level": 972,
+              "humidity": 95,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 500,
+                "main": "Rain",
+                "description": "небольшой дождь",
+                "icon": "10d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 3.65,
+              "deg": 2,
+              "gust": 8.14
+            },
+            "visibility": 71,
+            "pop": 1,
+            "rain": {
+              "3h": 1.65
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-23 15:00:00"
+          },
+          {
+            "dt": 1776967200,
+            "main": {
+              "temp": 2.58,
+              "feels_like": -1.46,
+              "temp_min": 2.58,
+              "temp_max": 2.58,
+              "pressure": 993,
+              "sea_level": 993,
+              "grnd_level": 974,
+              "humidity": 93,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 600,
+                "main": "Snow",
+                "description": "небольшой снег",
+                "icon": "13n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 4.57,
+              "deg": 8,
+              "gust": 9.34
+            },
+            "visibility": 9094,
+            "pop": 1,
+            "snow": {
+              "3h": 1.09
+            },
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-23 18:00:00"
+          },
+          {
+            "dt": 1776978000,
+            "main": {
+              "temp": 1.75,
+              "feels_like": -2.45,
+              "temp_min": 1.75,
+              "temp_max": 1.75,
+              "pressure": 994,
+              "sea_level": 994,
+              "grnd_level": 974,
+              "humidity": 96,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 600,
+                "main": "Snow",
+                "description": "небольшой снег",
+                "icon": "13n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 4.51,
+              "deg": 348,
+              "gust": 10.11
+            },
+            "visibility": 199,
+            "pop": 0.98,
+            "snow": {
+              "3h": 0.74
+            },
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-23 21:00:00"
+          }
+        ],
+        "2026-04-24": [
+          {
+            "dt": 1776988800,
+            "main": {
+              "temp": 1.06,
+              "feels_like": -3.96,
+              "temp_min": 1.06,
+              "temp_max": 1.06,
+              "pressure": 993,
+              "sea_level": 993,
+              "grnd_level": 974,
+              "humidity": 95,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 600,
+                "main": "Snow",
+                "description": "небольшой снег",
+                "icon": "13n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.7,
+              "deg": 352,
+              "gust": 10.63
+            },
+            "pop": 1,
+            "snow": {
+              "3h": 0.65
+            },
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-24 00:00:00"
+          },
+          {
+            "dt": 1776999600,
+            "main": {
+              "temp": 0.68,
+              "feels_like": -4.41,
+              "temp_min": 0.68,
+              "temp_max": 0.68,
+              "pressure": 993,
+              "sea_level": 993,
+              "grnd_level": 973,
+              "humidity": 96,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 600,
+                "main": "Snow",
+                "description": "небольшой снег",
+                "icon": "13d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.65,
+              "deg": 339,
+              "gust": 11.58
+            },
+            "visibility": 77,
+            "pop": 1,
+            "snow": {
+              "3h": 1.36
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-24 03:00:00"
+          },
+          {
+            "dt": 1777010400,
+            "main": {
+              "temp": 0.65,
+              "feels_like": -4.3,
+              "temp_min": 0.65,
+              "temp_max": 0.65,
+              "pressure": 994,
+              "sea_level": 994,
+              "grnd_level": 974,
+              "humidity": 96,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 601,
+                "main": "Snow",
+                "description": "снег",
+                "icon": "13d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.36,
+              "deg": 325,
+              "gust": 9.61
+            },
+            "visibility": 408,
+            "pop": 1,
+            "snow": {
+              "3h": 2.9
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-24 06:00:00"
+          },
+          {
+            "dt": 1777021200,
+            "main": {
+              "temp": 2.97,
+              "feels_like": -0.93,
+              "temp_min": 2.97,
+              "temp_max": 2.97,
+              "pressure": 995,
+              "sea_level": 995,
+              "grnd_level": 976,
+              "humidity": 74,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 600,
+                "main": "Snow",
+                "description": "небольшой снег",
+                "icon": "13d"
+              }
+            ],
+            "clouds": {
+              "all": 99
+            },
+            "wind": {
+              "speed": 4.5,
+              "deg": 341,
+              "gust": 5.7
+            },
+            "visibility": 10000,
+            "pop": 0.37,
+            "snow": {
+              "3h": 0.29
+            },
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-24 09:00:00"
+          },
+          {
+            "dt": 1777032000,
+            "main": {
+              "temp": 4.01,
+              "feels_like": 0.22,
+              "temp_min": 4.01,
+              "temp_max": 4.01,
+              "pressure": 995,
+              "sea_level": 995,
+              "grnd_level": 976,
+              "humidity": 67,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 99
+            },
+            "wind": {
+              "speed": 4.76,
+              "deg": 351,
+              "gust": 6.35
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-24 12:00:00"
+          },
+          {
+            "dt": 1777042800,
+            "main": {
+              "temp": 3.61,
+              "feels_like": -0.43,
+              "temp_min": 3.61,
+              "temp_max": 3.61,
+              "pressure": 995,
+              "sea_level": 995,
+              "grnd_level": 976,
+              "humidity": 78,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.05,
+              "deg": 349,
+              "gust": 8.18
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-24 15:00:00"
+          },
+          {
+            "dt": 1777053600,
+            "main": {
+              "temp": 2.27,
+              "feels_like": -1.79,
+              "temp_min": 2.27,
+              "temp_max": 2.27,
+              "pressure": 995,
+              "sea_level": 995,
+              "grnd_level": 976,
+              "humidity": 96,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 600,
+                "main": "Snow",
+                "description": "небольшой снег",
+                "icon": "13n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 4.48,
+              "deg": 353,
+              "gust": 9.01
+            },
+            "visibility": 115,
+            "pop": 0.2,
+            "snow": {
+              "3h": 0.16
+            },
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-24 18:00:00"
+          },
+          {
+            "dt": 1777064400,
+            "main": {
+              "temp": 2.62,
+              "feels_like": -2.32,
+              "temp_min": 2.62,
+              "temp_max": 2.62,
+              "pressure": 994,
+              "sea_level": 994,
+              "grnd_level": 975,
+              "humidity": 96,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 500,
+                "main": "Rain",
+                "description": "небольшой дождь",
+                "icon": "10n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 6.45,
+              "deg": 340,
+              "gust": 13.55
+            },
+            "pop": 1,
+            "rain": {
+              "3h": 1.93
+            },
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-24 21:00:00"
+          }
+        ],
+        "2026-04-25": [
+          {
+            "dt": 1777075200,
+            "main": {
+              "temp": 3.71,
+              "feels_like": -0.78,
+              "temp_min": 3.71,
+              "temp_max": 3.71,
+              "pressure": 994,
+              "sea_level": 994,
+              "grnd_level": 975,
+              "humidity": 95,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 6.09,
+              "deg": 349,
+              "gust": 12.07
+            },
+            "visibility": 7457,
+            "pop": 0.8,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-25 00:00:00"
+          },
+          {
+            "dt": 1777086000,
+            "main": {
+              "temp": 3.68,
+              "feels_like": -0.69,
+              "temp_min": 3.68,
+              "temp_max": 3.68,
+              "pressure": 995,
+              "sea_level": 995,
+              "grnd_level": 976,
+              "humidity": 91,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.79,
+              "deg": 345,
+              "gust": 11.59
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-25 03:00:00"
+          },
+          {
+            "dt": 1777096800,
+            "main": {
+              "temp": 4.8,
+              "feels_like": 0.67,
+              "temp_min": 4.8,
+              "temp_max": 4.8,
+              "pressure": 997,
+              "sea_level": 997,
+              "grnd_level": 977,
+              "humidity": 84,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.93,
+              "deg": 341,
+              "gust": 10.28
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-25 06:00:00"
+          },
+          {
+            "dt": 1777107600,
+            "main": {
+              "temp": 3.95,
+              "feels_like": -0.14,
+              "temp_min": 3.95,
+              "temp_max": 3.95,
+              "pressure": 999,
+              "sea_level": 999,
+              "grnd_level": 980,
+              "humidity": 94,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 5.33,
+              "deg": 310,
+              "gust": 10.09
+            },
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-25 09:00:00"
+          },
+          {
+            "dt": 1777118400,
+            "main": {
+              "temp": 5.51,
+              "feels_like": 2.27,
+              "temp_min": 5.51,
+              "temp_max": 5.51,
+              "pressure": 1001,
+              "sea_level": 1001,
+              "grnd_level": 982,
+              "humidity": 81,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 4.39,
+              "deg": 312,
+              "gust": 8.11
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-25 12:00:00"
+          },
+          {
+            "dt": 1777129200,
+            "main": {
+              "temp": 6.43,
+              "feels_like": 3.36,
+              "temp_min": 6.43,
+              "temp_max": 6.43,
+              "pressure": 1002,
+              "sea_level": 1002,
+              "grnd_level": 983,
+              "humidity": 68,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 4.5,
+              "deg": 288,
+              "gust": 6.95
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-25 15:00:00"
+          },
+          {
+            "dt": 1777140000,
+            "main": {
+              "temp": 5.04,
+              "feels_like": 2.58,
+              "temp_min": 5.04,
+              "temp_max": 5.04,
+              "pressure": 1004,
+              "sea_level": 1004,
+              "grnd_level": 985,
+              "humidity": 69,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04n"
+              }
+            ],
+            "clouds": {
+              "all": 100
+            },
+            "wind": {
+              "speed": 2.96,
+              "deg": 282,
+              "gust": 6.78
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-25 18:00:00"
+          },
+          {
+            "dt": 1777150800,
+            "main": {
+              "temp": 3.1,
+              "feels_like": 0.88,
+              "temp_min": 3.1,
+              "temp_max": 3.1,
+              "pressure": 1005,
+              "sea_level": 1005,
+              "grnd_level": 985,
+              "humidity": 79,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04n"
+              }
+            ],
+            "clouds": {
+              "all": 88
+            },
+            "wind": {
+              "speed": 2.26,
+              "deg": 239,
+              "gust": 5.07
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-25 21:00:00"
+          }
+        ],
+        "2026-04-26": [
+          {
+            "dt": 1777161600,
+            "main": {
+              "temp": 2.64,
+              "feels_like": 0.97,
+              "temp_min": 2.64,
+              "temp_max": 2.64,
+              "pressure": 1005,
+              "sea_level": 1005,
+              "grnd_level": 985,
+              "humidity": 81,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04n"
+              }
+            ],
+            "clouds": {
+              "all": 91
+            },
+            "wind": {
+              "speed": 1.71,
+              "deg": 188,
+              "gust": 3.51
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "n"
+            },
+            "dt_txt": "2026-04-26 00:00:00"
+          },
+          {
+            "dt": 1777172400,
+            "main": {
+              "temp": 2.53,
+              "feels_like": 0.5,
+              "temp_min": 2.53,
+              "temp_max": 2.53,
+              "pressure": 1005,
+              "sea_level": 1005,
+              "grnd_level": 985,
+              "humidity": 81,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 96
+            },
+            "wind": {
+              "speed": 1.99,
+              "deg": 148,
+              "gust": 3.78
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-26 03:00:00"
+          },
+          {
+            "dt": 1777183200,
+            "main": {
+              "temp": 6.82,
+              "feels_like": 4.33,
+              "temp_min": 6.82,
+              "temp_max": 6.82,
+              "pressure": 1005,
+              "sea_level": 1005,
+              "grnd_level": 986,
+              "humidity": 63,
+              "temp_kf": 0
+            },
+            "weather": [
+              {
+                "id": 804,
+                "main": "Clouds",
+                "description": "пасмурно",
+                "icon": "04d"
+              }
+            ],
+            "clouds": {
+              "all": 98
+            },
+            "wind": {
+              "speed": 3.57,
+              "deg": 150,
+              "gust": 5.59
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+              "pod": "d"
+            },
+            "dt_txt": "2026-04-26 06:00:00"
+          }
+        ]
+      },
+      "last_inline_message_id": 51,
+      "last_notification_sent_at": 1776759167.2264266
+    }
+  }
+}

@@ -1,90 +1,36 @@
 # OpenWeather Case
 
-CLI-приложение на Python для получения:
-- текущей погоды;
-- прогноза на 5 дней с шагом 3 часа.
+Telegram-бот для погоды на базе `pyTelegramBotAPI` и OpenWeather API.
 
-Данные берутся из OpenWeather API.
+## Структура проекта
 
-## Возможности
+- `bot.py`
+- `weather_app.py`
+- `storage.py`
+- `requirements.txt`
+- `.gitignore`
+- `.env.example`
+- `User_Data.json`
+- `README.md`
 
-- Поиск погоды по названию города.
-- Поиск погоды по координатам (`lat`, `lon`).
-- Почасовой прогноз (каждые 3 часа) на 5 дней через endpoint `/data/2.5/forecast`.
-- Повторные попытки запроса при временных ошибках сети и `429`.
-- Кэш последнего успешного ответа в `weather_cache.json` и возможность использовать его при проблемах с сетью.
+## Настройка
 
-## Требования
-
-- Python 3.10+
-- OpenWeather API key
-
-## Установка
-
-1. Клонируйте репозиторий или откройте проект.
-2. Создайте и активируйте виртуальное окружение.
-
-Windows (PowerShell):
+1. Создайте и активируйте виртуальное окружение.
+2. Установите зависимости:
 
 ```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
 ```
 
-3. Установите зависимости:
-
-```powershell
-pip install -r requirements.txt
-```
-
-## Настройка `.env`
-
-Создайте файл `.env` в корне проекта:
+3. Создайте `.env` на основе `.env.example` и заполните переменные:
 
 ```env
-API_KEY=ваш_ключ_openweather
+OW_API_KEY=your_openweather_key
+BOT_TOKEN=your_telegram_token
 ```
-
-Получить ключ можно в личном кабинете OpenWeather: [https://openweathermap.org/api](https://openweathermap.org/api)
 
 ## Запуск
 
 ```powershell
-python weather_app.py
+python bot.py
 ```
-
-## Как пользоваться
-
-После запуска выберите режим:
-
-- `1` — по городу
-- `2` — по координатам
-- `0` — выход
-
-В режимах `1` и `2` сначала выводится текущая погода, затем автоматически показывается:
-- прогноз на 5 дней с шагом 3 часа.
-
-## Пример запроса прогноза
-
-Внутри приложения используется OpenWeather endpoint:
-
-```text
-https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API_KEY}
-```
-
-Приложение также добавляет параметры:
-- `units=metric`
-- `lang=ru`
-
-## Структура проекта
-
-- `weather_app.py` — основной скрипт приложения.
-- `requirements.txt` — зависимости проекта.
-- `.env` — API-ключ (не коммитится в git).
-- `weather_cache.json` — кэш последнего ответа (игнорируется git).
-
-## Возможные ошибки
-
-- `API_KEY не найден в .env` — отсутствует переменная `API_KEY`.
-- `невалидный API-ключ OpenWeather` — неверный ключ.
-- `Превышен лимит запросов OpenWeather (429)` — слишком много запросов, подождите и повторите.
